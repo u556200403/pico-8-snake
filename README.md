@@ -7,7 +7,7 @@ Play it in browser:
 
 ## Features
 
-- Simple snake gamplay 
+- Simple snake gameplay 
 - Increasing speed with every food collected  
 - Score tracking  
 - Game Over screen  
